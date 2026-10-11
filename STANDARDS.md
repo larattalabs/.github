@@ -44,7 +44,8 @@ The studio palette and type come from [larattalabs.com](https://larattalabs.com)
 |---|---|---|
 | Rust | `#B7410E` | accent, license badge |
 | Rust deep | `#8A2F06` | hover and pressed states |
-| Iron | `#6B7280` | secondary text, rules |
+| Iron | `#6B7280` | secondary text and rules on cream |
+| Iron light | `#A3A9B3` | secondary text on ink (iron on ink is only 3.8:1; this is 7.8:1) |
 | Ink | `#0F1419` | dark backgrounds |
 | Cream | `#F8F7F4` | light backgrounds, text on ink |
 
