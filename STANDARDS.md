@@ -19,6 +19,7 @@ Decided by Noah on 2026-10-10.
   - a row in the "Open source" table in [`profile/README.md`](profile/README.md);
   - an entry in `brand/profile.json` → `labs.openSource` in nlaratta/nlaratta (that list appears on Noah's profile);
   - consider pinning it on the org page (6 pins max; current: architect-mc, local-lab, blender-hunyuan3d-mac, lab-ui).
+- [ ] **Keep profiles current:** when a repo is published, renamed, archived or made private, or a product changes, update both profiles and noahlaratta.com. The event-by-event table is in [Profile READMEs](https://github.com/nlaratta/nlaratta/blob/main/STANDARDS.md#profile-readmes).
 - [ ] **Hygiene:** a full-history secret scan (`gitleaks git .`) before the repo goes public. No generated or local-only files committed.
 - [ ] **New repos start private.** They go public only when Noah says so.
 
