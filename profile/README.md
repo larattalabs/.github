@@ -16,7 +16,6 @@ Laratta Labs is an AI-native software studio in Denver, run by [Noah Laratta](ht
 | Project | What it is |
 |---|---|
 | [**Architect**](https://github.com/larattalabs/architect-mc) | Design Minecraft buildings with Claude, review them as a ghost in your world, and build them in survival. Fabric mod. |
-| [**Local Lab**](https://github.com/larattalabs/local-lab) | Desktop playground for comparing local AI models on Apple Silicon: image, video, music and text. |
 | [**Hunyuan3D for Blender on Mac**](https://github.com/larattalabs/blender-hunyuan3d-mac) | Textured 3D asset generation inside Blender, entirely on Apple Silicon. No CUDA, no cloud. |
 | [**lab-ui**](https://github.com/larattalabs/lab-ui) | Shared Fabric client UI library for the studio's Minecraft mods. |
 | [**Steward**](https://github.com/larattalabs/steward-mc) | A Claude-driven NPC that plans and builds your Minecraft settlement. Early planning stage. |
